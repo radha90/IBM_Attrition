@@ -21,3 +21,5 @@ RelationshipSatisfaction
 
 WorkLifeBalance 1 'Bad' 2 'Good' 3 'Better' 4 'Best'
 
+The first model is created using Logistic Regression.
+
