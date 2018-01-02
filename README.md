@@ -1,2 +1,23 @@
-# IBM_Attrition
-Analyzing employee data and creating a model to predict if an employee will  be attrition-ed.
+# IBM HR Analytics Employee Attrition & Performance
+Uncovers the factors that lead to employee attrition and explores important questions such as 'breakdown of Attrition by Job role'.
+The dataset used is a fictional data set created by IBM data scientists and is available on Kaggle.
+
+Some of the attributes are:
+
+Education 1 'Below College' 2 'College' 3 'Bachelor' 4 'Master' 5 'Doctor'
+
+EnvironmentSatisfaction 1 'Low' 2 'Medium' 3 'High' 4 'Very High'
+
+JobInvolvement 
+1 'Low' 2 'Medium' 3 'High' 4 'Very High'
+
+JobSatisfaction 1 'Low' 2 'Medium' 3 'High' 4 'Very High'
+
+PerformanceRating 
+1 'Low' 2 'Good' 3 'Excellent' 4 'Outstanding'
+
+RelationshipSatisfaction 
+1 'Low' 2 'Medium' 3 'High' 4 'Very High'
+
+WorkLifeBalance 1 'Bad' 2 'Good' 3 'Better' 4 'Best'
+
